@@ -6,7 +6,7 @@ The Linux Hardening Toolkit is a collection of scripts designed to improve the s
 
 The Linux Hardening Toolkit is a collection of automation scripts designed to enhance the security and efficiency of Linux systems. This project focuses on hardening various aspects of a Linux system, including system configuration, network security, user management, and file system permissions. The toolkit automates tasks such as disabling unnecessary services, securing SSH configurations, setting up firewall rules, and ensuring the system is up to date with security patches. By using these scripts, system administrators can quickly improve the overall security posture of their Linux environments.
 
-Key features of the project include:
+## Key features of the project include:
 
 - Automated system hardening for a variety of Linux distributions.
 - Configuration scripts for securing SSH, firewalls, and user permissions.
@@ -41,12 +41,12 @@ Key features of the project include:
    ./update_system.sh
    ```
 
-2.Navigate to the scripts folder:
+4. Navigate to the scripts folder:
    ```bash
    cd Linux-Hardening-Toolkit/scripts
    ```
 
-3.Run the desired script:
+5. Run the desired script:
    ```bash
    ./update_system.sh
    ```
