@@ -41,16 +41,6 @@ Key features of the project include:
    ./update_system.sh
    ```
 
-2.Navigate to the scripts folder:
-   ```bash
-   cd Linux-Hardening-Toolkit/scripts
-   ```
-
-3.Run the desired script:
-   ```bash
-   ./update_system.sh
-   ```
-
 ## Compatibility
 Tested on:
 - Ubuntu 20.04, 22.04
